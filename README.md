@@ -10,11 +10,11 @@ Cookingking (요리 강좌를 수강하기 위해 멘토-멘티 연결 서비스
 
 ## 개발 환경
 
-> **OS :** Windows 10
-> **WAS :** Apache Tomcat 8.5
-> **Dababase :** Oracle 11g
-> **Language :** Java, HTML5, CSS3, JavaScript, SQL
-> **IDE :** Eclipse, SQL Developer
+> **OS :** Windows 10<br/>
+> **WAS :** Apache Tomcat 8.5<br/>
+> **Dababase :** Oracle 11g<br/>
+> **Language :** Java, HTML5, CSS3, JavaScript, SQL<br/>
+> **IDE :** Eclipse, SQL Developer<br/>
 
 ## 핵심 기능
 
